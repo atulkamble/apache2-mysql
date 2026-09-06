@@ -1,4 +1,4 @@
-If your **Azure VM is Ubuntu**, this is a simple hands-on setup for **Apache + PHP**. Azure Linux VMs are normally administered over SSH, and HTTP access requires port **80** to be allowed in the VM's NSG. ([Microsoft Learn][1])
+**Azure VM is Ubuntu**, || simple hands-on setup for **Apache + PHP**. Azure Linux VMs are normally administered over SSH, and HTTP access requires port **80** to be allowed in the VM's NSG. 
 
 ### 1. Azure VM requirements
 
